@@ -6,7 +6,7 @@ sql = """CREATE TABLE `users1` (
     `id` int(11) NOT NULL AUTO_INCREMENT,
     `name` varchar(255)  NOT NULL,
     `family` varchar(255) NOT NULL,
-    `age` varchar(255) NOT NULL,
+    ` age` varchar(255) NOT NULL,
     PRIMARY KEY (`id`)
 ) """
 
